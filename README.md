@@ -1,5 +1,4 @@
-# ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) This project has been archived. ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
-# ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) Check out the new version [here](https://github.com/codingforentrepreneurs/30-Days-of-Python) ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
+ This project has been archived.
 
 ##  30 Days of Python 3.6
 
